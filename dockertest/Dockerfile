@@ -1,6 +1,6 @@
 FROM centos
 
-MAINTAINER Joe
+MAINTAINER JoeG
 
 RUN yum -y update
 
